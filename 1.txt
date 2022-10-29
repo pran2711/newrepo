@@ -1,2 +1,3 @@
 rang shrbton ka
-main jaise koi 
+main jaise koi
+1.txt 2 lines 32 bytes 
